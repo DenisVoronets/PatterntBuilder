@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PatternBuilderFactory</string>
+    <string name="detector">Заказ на Detector</string>
+    <string name="doctor">Заказ на Doctor</string>
+</resources>
